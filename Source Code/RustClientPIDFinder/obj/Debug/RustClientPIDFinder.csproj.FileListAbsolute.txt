@@ -1,0 +1,7 @@
+C:\Users\GlebYT\source\repos\RustClientPIDFinder\RustClientPIDFinder\bin\Debug\RustClientPIDFinder.exe.config
+C:\Users\GlebYT\source\repos\RustClientPIDFinder\RustClientPIDFinder\bin\Debug\RustClientPIDFinder.exe
+C:\Users\GlebYT\source\repos\RustClientPIDFinder\RustClientPIDFinder\bin\Debug\RustClientPIDFinder.pdb
+C:\Users\GlebYT\source\repos\RustClientPIDFinder\RustClientPIDFinder\obj\Debug\RustClientPIDFinder.csproj.AssemblyReference.cache
+C:\Users\GlebYT\source\repos\RustClientPIDFinder\RustClientPIDFinder\obj\Debug\RustClientPIDFinder.csproj.CoreCompileInputs.cache
+C:\Users\GlebYT\source\repos\RustClientPIDFinder\RustClientPIDFinder\obj\Debug\RustClientPIDFinder.exe
+C:\Users\GlebYT\source\repos\RustClientPIDFinder\RustClientPIDFinder\obj\Debug\RustClientPIDFinder.pdb
